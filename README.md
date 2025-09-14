@@ -48,11 +48,11 @@ All data is synced in real-time using **Firebase Firestore**, ensuring students 
 
 ## ⚡ Tech Stack
 
-- **Frontend:** React / Angular / Flutter
+- **Frontend:** Flutter
 - **Backend:** Firebase Firestore
 - **Authentication:** Firebase Authentication
 - **Hosting:** Firebase Hosting (optional)
-- **State Management:** Redux / Provider / Bloc
+- **State Management:** Provider / Bloc
 
 ---
 
