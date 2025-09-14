@@ -74,15 +74,19 @@ All data is synced in real-time using **Firebase Firestore**, ensuring students 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/eduguide-app.git
+    git clone https://github.com/your-username/eduguide-app.git
     npm install       # For web apps
    ```
 
 # or
 
-flutter pub get # For Flutter apps  
-npm start # Web
+    ```bash
+    flutter pub get # For Flutter apps
+    npm start # Web
+    ```
 
 # or
 
-flutter run # Flutter
+    ```bash
+    flutter run # Flutter
+    ```
