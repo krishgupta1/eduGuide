@@ -80,13 +80,9 @@ All data is synced in real-time using **Firebase Firestore**, ensuring students 
 
 # or
 
-    ```bash
     flutter pub get # For Flutter apps
     npm start # Web
-    ```
 
 # or
 
-    ```bash
     flutter run # Flutter
-    ```
